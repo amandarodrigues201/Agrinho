@@ -1,9 +1,42 @@
-header{background:limegreen;padding:20px 0;text-align:center;}
-main{background:#B0C4DE;}
-footer{background:#FF0000;text-align: center;display:inline-block;width:100%}
+header{background:DarkViolet;padding:25px 0;text-align:center;}
+main{background:#FF1493;}
+footer{background:#9400D3	;text-align: center;display:inline-block;width:100%}
 .produtos {width: 940px;margin: 0 auto;padding: 50px 0;}
-.produtos li {display: inline-block;text-align: center;width: 30%;vertical-align: top;margin: 0 1.5%;padding: 30px 20px;box-sizing: border-box;border: 2px solid #000000;border-radius: 10px;}
+.produtos li {display: inline-block;text-align: center;width: 30%;vertical-align: top;margin: 0 1.5%;padding: 30px 20px;box-sizing: border-box;border: 2px solid 	#000000;border-radius: 30px;}
+
 .produtos h2 {font-size: 30px;font-weight: bold;}
 .produto-descricao {font-size: 18px;}
 #lixeira{width:30%;}
 #tampinha{width: 30%;}
+
+nav a:hover {
+color:#C78C19
+text-decoration: underline;}
+
+.produtos li:hover{
+border-color:#FFFF00}
+
+.produtos li:active{
+border-color: #088C19}
+
+.produtos li:hover h2 { 
+font-size: 34px;}
+main{
+  background:#FF1493;
+}
+footer{
+  text-align:center;
+  background: #FF00FF;
+  padding: 40px 0;}
+
+.copyrigth {
+  color:#FFFFFF;
+ font-size: 13px;
+  margin: 20px 0 0;
+}
+body {
+  font-family: system-ui;
+  background: #FF69B4;
+  color: ;
+  text-align: center;
+}
